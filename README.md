@@ -40,7 +40,7 @@ La base de datos está compuesta por tres colecciones:
 
 #### **2.1 Colección: productos**
 Campos principales:
-**COLOCAR LINK **
+![image alt](https://github.com/MajoMontes/BigData-Tarea4/blob/fe29c6b7406b8c9817f844d9b646cfae7a4972f8/Evidencia/EstructuraProductos.png
 
 ---
 
