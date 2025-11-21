@@ -97,7 +97,7 @@ Todos los archivos JSON utilizados están organizados dentro de la carpeta corre
 ---
 
 
-####**1. Filtrar productos por rango de precios**
+#### **1. Filtrar productos por rango de precios**
 
 `db.productos.find({ precio: { $gte: 50000, $lte: 200000 } });`
 
@@ -111,7 +111,7 @@ Es útil cuando quieres mostrar productos dentro de un presupuesto específico.
 
 ---
 
-####**2.	Buscar Productos con Stock menor a 20 **
+#### **2.	Buscar Productos con Stock menor a 20 **
 
 `db.productos.find({ cantidad: { $lt: 20 } });`
 
@@ -124,7 +124,7 @@ Sirve para identificar productos que están próximos a agotarse.
 
 ---
 
-####** 3. Buscar Clientes de Colombia  **
+#### ** 3. Buscar Clientes de Colombia  **
 
 `db.clientes.find({ pais: "Colombia" });`
 
@@ -135,7 +135,7 @@ No usa operadores porque es una comparación directa.
 
 ---
 
-####** 4.	Buscar Pedidos con valor total mayor a 100000 **
+#### ** 4.	Buscar Pedidos con valor total mayor a 100000 **
 
 `db.pedidos.find({ valor_total: { $gt: 100000 } });`
 
