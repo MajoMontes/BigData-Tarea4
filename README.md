@@ -38,17 +38,17 @@ La base de datos está compuesta por tres colecciones:
 
 ---
 
-#### **2.1 Colección: productos**
+#### **1 Colección: productos**
 ![image alt](https://github.com/MajoMontes/BigData-Tarea4/blob/fe29c6b7406b8c9817f844d9b646cfae7a4972f8/Evidencia/EstructuraProductos.png)
 
 ---
 
-#### **2.2 Colección: clientes**
+#### **2 Colección: clientes**
 ![image alt](https://github.com/MajoMontes/BigData-Tarea4/blob/67e7048692198b155510130224480d0867222593/Evidencia/EstructuraCliente.png)
 
 ---
 
-####**2.3 Colección: pedidos**
+####**3 Colección: pedidos**
 ![image alt](https://github.com/MajoMontes/BigData-Tarea4/blob/fe29c6b7406b8c9817f844d9b646cfae7a4972f8/Evidencia/EstructuraPedidos.png)
 
 ---
