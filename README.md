@@ -70,22 +70,26 @@ La base de datos está compuesta por tres colecciones:
    **Collection → Import Data → JSON File**
 
 Cada archivo JSON importado se encuentra dentro de este repositorio.
+
 ![image alt](https://github.com/MajoMontes/BigData-Tarea4/blob/67e7048692198b155510130224480d0867222593/Evidencia/Base%20de%20Datos.png)
 
 ---
 
 ### 4. Importación de Datos
 
-####Colección: productos  
+#### Colección: productos  
 Se importó un archivo JSON con información del catálogo de productos, incluyendo precios, categorías y existencias.
+
 ![image alt](https://github.com/MajoMontes/BigData-Tarea4/blob/67e7048692198b155510130224480d0867222593/Evidencia/Productos.png)
 
-####Colección: clientes  
+#### Colección: clientes  
 Se importó un archivo JSON con los datos de los clientes registrados, incluyendo información personal y de contacto.
+
 ![image alt](https://github.com/MajoMontes/BigData-Tarea4/blob/67e7048692198b155510130224480d0867222593/Evidencia/Clientes.png)
 
 #### Colección: pedidos  
 Se importó un archivo JSON con los pedidos realizados por los clientes, cada uno con sus productos asociados y valor total.
+
 ![image alt](https://github.com/MajoMontes/BigData-Tarea4/blob/67e7048692198b155510130224480d0867222593/Evidencia/Pedidos.png)
 
 Todos los archivos JSON utilizados están organizados dentro de la carpeta correspondiente en este repositorio.
