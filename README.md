@@ -28,7 +28,7 @@ El propósito es representar de forma clara, organizada y eficiente el funcionam
 
 ---
 
-### 2. Estructura de la Base de Datos
+## 2. Estructura de la Base de Datos
 
 #### 🏷 Nombre de la base de datos
 `ecommerce_db`
@@ -38,22 +38,22 @@ La base de datos está compuesta por tres colecciones:
 
 ---
 
-#### **1 Colección: productos**
+#### **1. Colección: productos**
 ![image alt](https://github.com/MajoMontes/BigData-Tarea4/blob/fe29c6b7406b8c9817f844d9b646cfae7a4972f8/Evidencia/EstructuraProductos.png)
 
 ---
 
-#### **2 Colección: clientes**
+#### **2. Colección: clientes**
 ![image alt](https://github.com/MajoMontes/BigData-Tarea4/blob/67e7048692198b155510130224480d0867222593/Evidencia/EstructuraCliente.png)
 
 ---
 
-#### **3 Colección: pedidos**
+#### **3. Colección: pedidos**
 ![image alt](https://github.com/MajoMontes/BigData-Tarea4/blob/fe29c6b7406b8c9817f844d9b646cfae7a4972f8/Evidencia/EstructuraPedidos.png)
 
 ---
 
-### 3. Creación de la Base de Datos
+## 3. Creación de la Base de Datos
 
 ####🖥 Herramientas Utilizadas
 - **MongoDB 8.2**  
@@ -75,7 +75,7 @@ Cada archivo JSON importado se encuentra dentro de este repositorio.
 
 ---
 
-### 4. Importación de Datos
+## 4. Importación de Datos
 
 #### Colección: productos  
 Se importó un archivo JSON con información del catálogo de productos, incluyendo precios, categorías y existencias.
@@ -96,7 +96,7 @@ Todos los archivos JSON utilizados están organizados dentro de la carpeta corre
 
 ---
 
-### 5. 📌 Consultas Realizadas en MongoDB
+## 5. 📌 Consultas Realizadas en MongoDB
 
 ---
 
@@ -115,7 +115,7 @@ Es útil cuando quieres mostrar productos dentro de un presupuesto específico.
 
 ---
 
-#### **2.	Buscar Productos con Stock menor a 20 **
+#### **2.	Buscar Productos con Stock menor a 20**
 
 `db.productos.find({ cantidad: { $lt: 20 } });`
 
@@ -128,7 +128,7 @@ Sirve para identificar productos que están próximos a agotarse.
 
 ---
 
-#### ** 3. Buscar Clientes de Colombia  **
+#### **3. Buscar Clientes de Colombia**
 
 `db.clientes.find({ pais: "Colombia" });`
 
@@ -139,7 +139,7 @@ No usa operadores porque es una comparación directa.
 
 ---
 
-#### ** 4.	Buscar Pedidos con valor total mayor a 100000 **
+#### **4.	Buscar Pedidos con valor total mayor a 100000**
 
 `db.pedidos.find({ valor_total: { $gt: 100000 } });`
 
