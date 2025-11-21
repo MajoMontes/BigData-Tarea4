@@ -55,7 +55,7 @@ La base de datos está compuesta por tres colecciones:
 
 ## 3. Creación de la Base de Datos
 
-####🖥 Herramientas Utilizadas
+#### 🖥 Herramientas Utilizadas
 - **MongoDB 8.2**  
 - **MongoDB Compass**
 
@@ -77,17 +77,17 @@ Cada archivo JSON importado se encuentra dentro de este repositorio.
 
 ## 4. Importación de Datos
 
-#### Colección: productos  
+#### 1. Colección: productos  
 Se importó un archivo JSON con información del catálogo de productos, incluyendo precios, categorías y existencias.
 
 ![image alt](https://github.com/MajoMontes/BigData-Tarea4/blob/67e7048692198b155510130224480d0867222593/Evidencia/Productos.png)
 
-#### Colección: clientes  
+#### 2. Colección: clientes  
 Se importó un archivo JSON con los datos de los clientes registrados, incluyendo información personal y de contacto.
 
 ![image alt](https://github.com/MajoMontes/BigData-Tarea4/blob/67e7048692198b155510130224480d0867222593/Evidencia/Clientes.png)
 
-#### Colección: pedidos  
+#### 3. Colección: pedidos  
 Se importó un archivo JSON con los pedidos realizados por los clientes, cada uno con sus productos asociados y valor total.
 
 ![image alt](https://github.com/MajoMontes/BigData-Tarea4/blob/67e7048692198b155510130224480d0867222593/Evidencia/Pedidos.png)
