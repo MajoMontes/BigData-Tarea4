@@ -1,0 +1,902 @@
+﻿[
+  {
+    "sku": "P-1001",
+    "nombre": "Camiseta básica de algodón",
+    "descripcion": "Camiseta de manga corta 100% algodón, disponible en varios colores.",
+    "categoria": "Ropa",
+    "precio": 25000,
+    "cantidad": 50,
+    "fecha_registro": "2025-01-15T00:00:00Z"
+  },
+  {
+    "sku": "P-1002",
+    "nombre": "Pantalón de mezclilla clásico",
+    "descripcion": "Pantalón de mezclilla azul oscuro con corte recto.",
+    "categoria": "Ropa",
+    "precio": 90000,
+    "cantidad": 35,
+    "fecha_registro": "2025-02-01T00:00:00Z"
+  },
+  {
+    "sku": "P-1003",
+    "nombre": "Zapatos deportivos running",
+    "descripcion": "Zapatos deportivos ligeros para correr, con suela antideslizante.",
+    "categoria": "Deportes",
+    "precio": 180000,
+    "cantidad": 20,
+    "fecha_registro": "2025-02-18T00:00:00Z"
+  },
+  {
+    "sku": "P-1004",
+    "nombre": "Audífonos inalámbricos Bluetooth",
+    "descripcion": "Audífonos con cancelación de ruido y estuche de carga.",
+    "categoria": "Electrónica",
+    "precio": 230000,
+    "cantidad": 45,
+    "fecha_registro": "2025-03-05T00:00:00Z"
+  },
+  {
+    "sku": "P-1005",
+    "nombre": "Perfume floral 100ml",
+    "descripcion": "Fragancia fresca y duradera para uso diario.",
+    "categoria": "Belleza",
+    "precio": 120000,
+    "cantidad": 60,
+    "fecha_registro": "2025-03-20T00:00:00Z"
+  },
+  {
+    "sku": "P-1006",
+    "nombre": "Cafetera eléctrica 1.5L",
+    "descripcion": "Cafetera con temporizador programable y filtro reutilizable.",
+    "categoria": "Hogar",
+    "precio": 145000,
+    "cantidad": 25,
+    "fecha_registro": "2025-04-02T00:00:00Z"
+  },
+  {
+    "sku": "P-1007",
+    "nombre": "Smartwatch deportivo",
+    "descripcion": "Reloj inteligente con monitor de ritmo cardíaco y GPS.",
+    "categoria": "Electrónica",
+    "precio": 350000,
+    "cantidad": 15,
+    "fecha_registro": "2025-04-10T00:00:00Z"
+  },
+  {
+    "sku": "P-1008",
+    "nombre": "Silla ergonómica de oficina",
+    "descripcion": "Silla ajustable con soporte lumbar y tapizado en malla.",
+    "categoria": "Hogar",
+    "precio": 480000,
+    "cantidad": 10,
+    "fecha_registro": "2025-05-05T00:00:00Z"
+  },
+  {
+    "sku": "P-1009",
+    "nombre": "Raqueta de tenis profesional",
+    "descripcion": "Raqueta ligera de fibra de carbono con excelente control.",
+    "categoria": "Deportes",
+    "precio": 210000,
+    "cantidad": 30,
+    "fecha_registro": "2025-05-15T00:00:00Z"
+  },
+  {
+    "sku": "P-1010",
+    "nombre": "Crema hidratante facial",
+    "descripcion": "Crema ligera con ácido hialurónico, ideal para piel seca.",
+    "categoria": "Belleza",
+    "precio": 85000,
+    "cantidad": 80,
+    "fecha_registro": "2025-05-30T00:00:00Z"
+  },
+  {
+    "sku": "P-1011",
+    "nombre": "Tablet 10 pulgadas 64GB",
+    "descripcion": "Tablet con pantalla Full HD y almacenamiento expandible.",
+    "categoria": "Electrónica",
+    "precio": 420000,
+    "cantidad": 18,
+    "fecha_registro": "2025-06-10T00:00:00Z"
+  },
+  {
+    "sku": "P-1012",
+    "nombre": "Juego de sábanas king size",
+    "descripcion": "Sábanas de algodón egipcio 600 hilos, incluye 4 piezas.",
+    "categoria": "Hogar",
+    "precio": 185000,
+    "cantidad": 40,
+    "fecha_registro": "2025-06-22T00:00:00Z"
+  },
+  {
+    "sku": "P-1013",
+    "nombre": "Set de maquillaje profesional",
+    "descripcion": "Kit completo con 12 sombras, base y brochas.",
+    "categoria": "Belleza",
+    "precio": 95000,
+    "cantidad": 55,
+    "fecha_registro": "2025-07-05T00:00:00Z"
+  },
+  {
+    "sku": "P-1014",
+    "nombre": "Balón de fútbol profesional",
+    "descripcion": "Balón oficial tamaño 5, material resistente al agua.",
+    "categoria": "Deportes",
+    "precio": 75000,
+    "cantidad": 65,
+    "fecha_registro": "2025-07-18T00:00:00Z"
+  },
+  {
+    "sku": "P-1015",
+    "nombre": "Chaqueta impermeable",
+    "descripcion": "Chaqueta con capa impermeable, ideal para lluvia.",
+    "categoria": "Ropa",
+    "precio": 135000,
+    "cantidad": 28,
+    "fecha_registro": "2025-08-01T00:00:00Z"
+  },
+  {
+    "sku": "P-1016",
+    "nombre": "Altavoz Bluetooth portátil",
+    "descripcion": "Altavoz con 20W de potencia y resistencia al agua IPX7.",
+    "categoria": "Electrónica",
+    "precio": 165000,
+    "cantidad": 32,
+    "fecha_registro": "2025-08-14T00:00:00Z"
+  },
+  {
+    "sku": "P-1017",
+    "nombre": "Olla de cocción lenta 5L",
+    "descripcion": "Olla programable con 8 modos de cocción y tapa de vidrio.",
+    "categoria": "Hogar",
+    "precio": 220000,
+    "cantidad": 22,
+    "fecha_registro": "2025-08-27T00:00:00Z"
+  },
+  {
+    "sku": "P-1018",
+    "nombre": "Serum facial antioxidante",
+    "descripcion": "Serum con vitamina C para reducir arrugas y manchas.",
+    "categoria": "Belleza",
+    "precio": 110000,
+    "cantidad": 48,
+    "fecha_registro": "2025-09-10T00:00:00Z"
+  },
+  {
+    "sku": "P-1019",
+    "nombre": "Bicicleta de montaña",
+    "descripcion": "Bicicleta con cuadro de aluminio y 21 velocidades.",
+    "categoria": "Deportes",
+    "precio": 850000,
+    "cantidad": 12,
+    "fecha_registro": "2025-09-25T00:00:00Z"
+  },
+  {
+    "sku": "P-1020",
+    "nombre": "Sudadera con capucha",
+    "descripcion": "Sudadera unisex de felpa, disponible en tallas S-XXL.",
+    "categoria": "Ropa",
+    "precio": 78000,
+    "cantidad": 42,
+    "fecha_registro": "2025-10-05T00:00:00Z"
+  },
+  {
+    "sku": "P-1021",
+    "nombre": "Laptop gaming 15.6 pulgadas",
+    "descripcion": "Laptop con RTX 4060, 16GB RAM y SSD 1TB.",
+    "categoria": "Electrónica",
+    "precio": 4200000,
+    "cantidad": 8,
+    "fecha_registro": "2025-10-18T00:00:00Z"
+  },
+  {
+    "sku": "P-1022",
+    "nombre": "Aspiradora robot inteligente",
+    "descripcion": "Aspiradora con mapeo láser y control por app.",
+    "categoria": "Hogar",
+    "precio": 680000,
+    "cantidad": 16,
+    "fecha_registro": "2025-11-02T00:00:00Z"
+  },
+  {
+    "sku": "P-1023",
+    "nombre": "Kit de cuidado barba",
+    "descripcion": "Incluye aceite, bálsamo y cepillo de madera.",
+    "categoria": "Belleza",
+    "precio": 65000,
+    "cantidad": 70,
+    "fecha_registro": "2025-11-15T00:00:00Z"
+  },
+  {
+    "sku": "P-1024",
+    "nombre": "Pesas ajustables 20kg",
+    "descripcion": "Set de pesas de discos intercambiables.",
+    "categoria": "Deportes",
+    "precio": 180000,
+    "cantidad": 25,
+    "fecha_registro": "2025-11-30T00:00:00Z"
+  },
+  {
+    "sku": "P-1025",
+    "nombre": "Vestido cocktail elegante",
+    "descripcion": "Vestido midi de satén para ocasiones especiales.",
+    "categoria": "Ropa",
+    "precio": 195000,
+    "cantidad": 20,
+    "fecha_registro": "2025-12-12T00:00:00Z"
+  },
+  {
+    "sku": "P-1026",
+    "nombre": "Monitor 27 pulgadas 4K",
+    "descripcion": "Monitor IPS con HDR10 y puerto USB-C.",
+    "categoria": "Electrónica",
+    "precio": 890000,
+    "cantidad": 14,
+    "fecha_registro": "2025-12-25T00:00:00Z"
+  },
+  {
+    "sku": "P-1027",
+    "nombre": "Colchón ortopédico memory foam",
+    "descripcion": "Colchón de 180x200cm con soporte lumbar avanzado.",
+    "categoria": "Hogar",
+    "precio": 1250000,
+    "cantidad": 9,
+    "fecha_registro": "2026-01-08T00:00:00Z"
+  },
+  {
+    "sku": "P-1028",
+    "nombre": "Protector solar FPS 50",
+    "descripcion": "Protector facial oil-free, resistente al agua.",
+    "categoria": "Belleza",
+    "precio": 45000,
+    "cantidad": 85,
+    "fecha_registro": "2026-01-20T00:00:00Z"
+  },
+  {
+    "sku": "P-1029",
+    "nombre": "Cinta de correr plegable",
+    "descripcion": "Cinta con motor 2.5HP y 12 programas predefinidos.",
+    "categoria": "Deportes",
+    "precio": 1200000,
+    "cantidad": 7,
+    "fecha_registro": "2026-02-03T00:00:00Z"
+  },
+  {
+    "sku": "P-1030",
+    "nombre": "Abrigo de lana invernal",
+    "descripcion": "Abrigo largo de lana merino, forrado interior.",
+    "categoria": "Ropa",
+    "precio": 320000,
+    "cantidad": 18,
+    "fecha_registro": "2026-02-16T00:00:00Z"
+  },
+  {
+    "sku": "P-1031",
+    "nombre": "Teclado mecánico gaming",
+    "descripcion": "Teclado RGB switches azules, antighosting.",
+    "categoria": "Electrónica",
+    "precio": 185000,
+    "cantidad": 35,
+    "fecha_registro": "2026-03-01T00:00:00Z"
+  },
+  {
+    "sku": "P-1032",
+    "nombre": "Juego de ollas antiadherentes",
+    "descripcion": "Set 7 piezas con revestimiento de cerámica.",
+    "categoria": "Hogar",
+    "precio": 285000,
+    "cantidad": 24,
+    "fecha_registro": "2026-03-14T00:00:00Z"
+  },
+  {
+    "sku": "P-1033",
+    "nombre": "Tónico facial hidratante",
+    "descripcion": "Tónico sin alcohol con extracto de rosa mosqueta.",
+    "categoria": "Belleza",
+    "precio": 55000,
+    "cantidad": 60,
+    "fecha_registro": "2026-03-28T00:00:00Z"
+  },
+  {
+    "sku": "P-1034",
+    "nombre": "Mochila hiking 40L",
+    "descripcion": "Mochila impermeable con soporte para hidratación.",
+    "categoria": "Deportes",
+    "precio": 145000,
+    "cantidad": 30,
+    "fecha_registro": "2026-04-10T00:00:00Z"
+  },
+  {
+    "sku": "P-1035",
+    "nombre": "Jeans slim fit elastano",
+    "descripcion": "Jeans con 2% elastano para mayor comodidad.",
+    "categoria": "Ropa",
+    "precio": 95000,
+    "cantidad": 38,
+    "fecha_registro": "2026-04-24T00:00:00Z"
+  },
+  {
+    "sku": "P-1036",
+    "nombre": "Tableta gráfica profesional",
+    "descripcion": "Tableta con lápiz sin batería y área activa 8x5 pulgadas.",
+    "categoria": "Electrónica",
+    "precio": 350000,
+    "cantidad": 20,
+    "fecha_registro": "2026-05-07T00:00:00Z"
+  },
+  {
+    "sku": "P-1037",
+    "nombre": "Purificador de aire HEPA",
+    "descripcion": "Purificador con filtro HEPA y sensor de calidad de aire.",
+    "categoria": "Hogar",
+    "precio": 420000,
+    "cantidad": 13,
+    "fecha_registro": "2026-05-21T00:00:00Z"
+  },
+  {
+    "sku": "P-1038",
+    "nombre": "Mascarilla facial de arcilla",
+    "descripcion": "Mascarilla purificante para pieles grasas.",
+    "categoria": "Belleza",
+    "precio": 38000,
+    "cantidad": 75,
+    "fecha_registro": "2026-06-04T00:00:00Z"
+  },
+  {
+    "sku": "P-1039",
+    "nombre": "Reloj deportivo sumergible",
+    "descripcion": "Reloj con cronómetro y resistencia 100m bajo agua.",
+    "categoria": "Deportes",
+    "precio": 125000,
+    "cantidad": 45,
+    "fecha_registro": "2026-06-18T00:00:00Z"
+  },
+  {
+    "sku": "P-1040",
+    "nombre": "Blusa de seda natural",
+    "descripcion": "Blusa drapeada 100% seda, corte fluidos.",
+    "categoria": "Ropa",
+    "precio": 185000,
+    "cantidad": 22,
+    "fecha_registro": "2026-07-02T00:00:00Z"
+  },
+  {
+    "sku": "P-1041",
+    "nombre": "Drone con cámara 4K",
+    "descripcion": "Drone con estabilización 3 ejes y autonomía 30min.",
+    "categoria": "Electrónica",
+    "precio": 950000,
+    "cantidad": 11,
+    "fecha_registro": "2026-07-16T00:00:00Z"
+  },
+  {
+    "sku": "P-1042",
+    "nombre": "Cafetera espresso automática",
+    "descripcion": "Cafetera con molinillo integrado y espumador de leche.",
+    "categoria": "Hogar",
+    "precio": 780000,
+    "cantidad": 12,
+    "fecha_registro": "2026-07-30T00:00:00Z"
+  },
+  {
+    "sku": "P-1043",
+    "nombre": "Aceite esencial de lavanda",
+    "descripcion": "Aceite 100% puro para aromaterapia y masajes.",
+    "categoria": "Belleza",
+    "precio": 32000,
+    "cantidad": 90,
+    "fecha_registro": "2026-08-13T00:00:00Z"
+  },
+  {
+    "sku": "P-1044",
+    "nombre": "Rodillo de foam massage",
+    "descripcion": "Rodillo para liberación miofascial y recuperación.",
+    "categoria": "Deportes",
+    "precio": 55000,
+    "cantidad": 50,
+    "fecha_registro": "2026-08-27T00:00:00Z"
+  },
+  {
+    "sku": "P-1045",
+    "nombre": "Chaleco térmico polar",
+    "descripcion": "Chaleco ligero con relleno sintético ultracálido.",
+    "categoria": "Ropa",
+    "precio": 115000,
+    "cantidad": 32,
+    "fecha_registro": "2026-09-10T00:00:00Z"
+  },
+  {
+    "sku": "P-1046",
+    "nombre": "Consola de videojuegos",
+    "descripcion": "Consola de última generación con 1TB SSD.",
+    "categoria": "Electrónica",
+    "precio": 2100000,
+    "cantidad": 6,
+    "fecha_registro": "2026-09-24T00:00:00Z"
+  },
+  {
+    "sku": "P-1047",
+    "nombre": "Robot de cocina multifunción",
+    "descripcion": "Robot con 15 funciones incluyendo amasado y vapor.",
+    "categoria": "Hogar",
+    "precio": 650000,
+    "cantidad": 15,
+    "fecha_registro": "2026-10-08T00:00:00Z"
+  },
+  {
+    "sku": "P-1048",
+    "nombre": "Labial mate de larga duración",
+    "descripcion": "Labial con fórmula transfer-proof, 8 tonos disponibles.",
+    "categoria": "Belleza",
+    "precio": 42000,
+    "cantidad": 68,
+    "fecha_registro": "2026-10-22T00:00:00Z"
+  },
+  {
+    "sku": "P-1049",
+    "nombre": "Cuerda de saltar profesional",
+    "descripcion": "Cuerda con rodamientos de bolas y contador digital.",
+    "categoria": "Deportes",
+    "precio": 35000,
+    "cantidad": 80,
+    "fecha_registro": "2026-11-05T00:00:00Z"
+  },
+  {
+    "sku": "P-1050",
+    "nombre": "Falda midi plisada",
+    "descripcion": "Falda de poliéster con pliegues permanentes.",
+    "categoria": "Ropa",
+    "precio": 88000,
+    "cantidad": 26,
+    "fecha_registro": "2026-11-19T00:00:00Z"
+  },
+  {
+    "sku": "P-1051",
+    "nombre": "Smartphone 128GB",
+    "descripcion": "Teléfono con cámara triple 48MP y pantalla AMOLED.",
+    "categoria": "Electrónica",
+    "precio": 850000,
+    "cantidad": 25,
+    "fecha_registro": "2026-12-03T00:00:00Z"
+  },
+  {
+    "sku": "P-1052",
+    "nombre": "Batidora de mano 800W",
+    "descripcion": "Batidora con 5 velocidades y accesorios incluidos.",
+    "categoria": "Hogar",
+    "precio": 145000,
+    "cantidad": 28,
+    "fecha_registro": "2026-12-17T00:00:00Z"
+  },
+  {
+    "sku": "P-1053",
+    "nombre": "Contorno de ojos antiedad",
+    "descripcion": "Crema con retinol y péptidos para bolsas y arrugas.",
+    "categoria": "Belleza",
+    "precio": 95000,
+    "cantidad": 42,
+    "fecha_registro": "2027-01-01T00:00:00Z"
+  },
+  {
+    "sku": "P-1054",
+    "nombre": "Colchoneta yoga extra gruesa",
+    "descripcion": "Colchoneta 10mm de espesor, material antideslizante.",
+    "categoria": "Deportes",
+    "precio": 68000,
+    "cantidad": 55,
+    "fecha_registro": "2027-01-15T00:00:00Z"
+  },
+  {
+    "sku": "P-1055",
+    "nombre": "Traje de baño enterizo",
+    "descripcion": "Traje de baño con control de tallas y protección UV50.",
+    "categoria": "Ropa",
+    "precio": 125000,
+    "cantidad": 34,
+    "fecha_registro": "2027-01-29T00:00:00Z"
+  },
+  {
+    "sku": "P-1056",
+    "nombre": "Auriculares gaming 7.1",
+    "descripcion": "Auriculares con sonido surround y micrófono retráctil.",
+    "categoria": "Electrónica",
+    "precio": 185000,
+    "cantidad": 30,
+    "fecha_registro": "2027-02-12T00:00:00Z"
+  },
+  {
+    "sku": "P-1057",
+    "nombre": "Horno tostador digital",
+    "descripcion": "Horno con 6 funciones y capacidad 25L.",
+    "categoria": "Hogar",
+    "precio": 220000,
+    "cantidad": 19,
+    "fecha_registro": "2027-02-26T00:00:00Z"
+  },
+  {
+    "sku": "P-1058",
+    "nombre": "Exfoliante corporal de café",
+    "descripcion": "Exfoliante natural con granos de café y aceite de coco.",
+    "categoria": "Belleza",
+    "precio": 48000,
+    "cantidad": 58,
+    "fecha_registro": "2027-03-12T00:00:00Z"
+  },
+  {
+    "sku": "P-1059",
+    "nombre": "Guantes de boxeo profesionales",
+    "descripcion": "Guantes de cuero sintético, peso 12oz.",
+    "categoria": "Deportes",
+    "precio": 135000,
+    "cantidad": 23,
+    "fecha_registro": "2027-03-26T00:00:00Z"
+  },
+  {
+    "sku": "P-1060",
+    "nombre": "Cárdigan de punto grueso",
+    "descripcion": "Cárdigan oversize de lana acrílica, varios colores.",
+    "categoria": "Ropa",
+    "precio": 145000,
+    "cantidad": 29,
+    "fecha_registro": "2027-04-09T00:00:00Z"
+  },
+  {
+    "sku": "P-1061",
+    "nombre": "Monitor curvo 32 pulgadas",
+    "descripcion": "Monitor 1500R, 144Hz, FreeSync Premium.",
+    "categoria": "Electrónica",
+    "precio": 1250000,
+    "cantidad": 10,
+    "fecha_registro": "2027-04-23T00:00:00Z"
+  },
+  {
+    "sku": "P-1062",
+    "nombre": "Freidora de aire 5L",
+    "descripcion": "Freidora sin aceite con 8 programas preestablecidos.",
+    "categoria": "Hogar",
+    "precio": 320000,
+    "cantidad": 21,
+    "fecha_registro": "2027-05-07T00:00:00Z"
+  },
+  {
+    "sku": "P-1063",
+    "nombre": "Desmaquillante bifásico",
+    "descripcion": "Desmaquillante para ojos y labios, fórmula suave.",
+    "categoria": "Belleza",
+    "precio": 35000,
+    "cantidad": 72,
+    "fecha_registro": "2027-05-21T00:00:00Z"
+  },
+  {
+    "sku": "P-1064",
+    "nombre": "Pelota de pilates 65cm",
+    "descripcion": "Pelota anti-reventón, soporta hasta 300kg.",
+    "categoria": "Deportes",
+    "precio": 45000,
+    "cantidad": 40,
+    "fecha_registro": "2027-06-04T00:00:00Z"
+  },
+  {
+    "sku": "P-1065",
+    "nombre": "Pijama de algodón orgánico",
+    "descripcion": "Pijama unisex, conjunto pantalón y camiseta.",
+    "categoria": "Ropa",
+    "precio": 78000,
+    "cantidad": 36,
+    "fecha_registro": "2027-06-18T00:00:00Z"
+  },
+  {
+    "sku": "P-1066",
+    "nombre": "Impresora multifunción",
+    "descripcion": "Impresora WiFi, scanner, copiadora, tanques de tinta.",
+    "categoria": "Electrónica",
+    "precio": 450000,
+    "cantidad": 16,
+    "fecha_registro": "2027-07-02T00:00:00Z"
+  },
+  {
+    "sku": "P-1067",
+    "nombre": "Ventilador de torre silencioso",
+    "descripcion": "Ventilador oscilante con mando a distancia.",
+    "categoria": "Hogar",
+    "precio": 165000,
+    "cantidad": 27,
+    "fecha_registro": "2027-07-16T00:00:00Z"
+  },
+  {
+    "sku": "P-1068",
+    "nombre": "Brillo labial con color",
+    "descripcion": "Brillo hidratante con pigmentos naturales.",
+    "categoria": "Belleza",
+    "precio": 28000,
+    "cantidad": 88,
+    "fecha_registro": "2027-07-30T00:00:00Z"
+  },
+  {
+    "sku": "P-1069",
+    "nombre": "Red de voleibol playero",
+    "descripcion": "Red regulable con postes de acero inoxidable.",
+    "categoria": "Deportes",
+    "precio": 185000,
+    "cantidad": 14,
+    "fecha_registro": "2027-08-13T00:00:00Z"
+  },
+  {
+    "sku": "P-1070",
+    "nombre": "Shorts deportivos dry-fit",
+    "descripcion": "Shorts con tecnología de secado rápido.",
+    "categoria": "Ropa",
+    "precio": 55000,
+    "cantidad": 52,
+    "fecha_registro": "2027-08-27T00:00:00Z"
+  },
+  {
+    "sku": "P-1071",
+    "nombre": "Proyector 4K Android TV",
+    "descripcion": "Proyector 3000 lúmenes, WiFi, Bluetooth.",
+    "categoria": "Electrónica",
+    "precio": 980000,
+    "cantidad": 9,
+    "fecha_registro": "2027-09-10T00:00:00Z"
+  },
+  {
+    "sku": "P-1072",
+    "nombre": "Licuadora extractor de jugos",
+    "descripcion": "Licuadora slow masticating, preserva nutrientes.",
+    "categoria": "Hogar",
+    "precio": 285000,
+    "cantidad": 18,
+    "fecha_registro": "2027-09-24T00:00:00Z"
+  },
+  {
+    "sku": "P-1073",
+    "nombre": "Agua micelar limpiadora",
+    "descripcion": "Agua micelar para todo tipo de piel, 400ml.",
+    "categoria": "Belleza",
+    "precio": 42000,
+    "cantidad": 64,
+    "fecha_registro": "2027-10-08T00:00:00Z"
+  },
+  {
+    "sku": "P-1074",
+    "nombre": "Pesa rusa 16kg",
+    "descripcion": "Pesa rusa de hierro fundido, superficie antideslizante.",
+    "categoria": "Deportes",
+    "precio": 95000,
+    "cantidad": 28,
+    "fecha_registro": "2027-10-22T00:00:00Z"
+  },
+  {
+    "sku": "P-1075",
+    "nombre": "Blazer slim fit",
+    "descripcion": "Blazer de mezclilla elastizada, corte moderno.",
+    "categoria": "Ropa",
+    "precio": 215000,
+    "cantidad": 19,
+    "fecha_registro": "2027-11-05T00:00:00Z"
+  },
+  {
+    "sku": "P-1076",
+    "nombre": "Router WiFi 6 triple banda",
+    "descripcion": "Router gaming con puertos 2.5G y QoS avanzado.",
+    "categoria": "Electrónica",
+    "precio": 450000,
+    "cantidad": 22,
+    "fecha_registro": "2027-11-19T00:00:00Z"
+  },
+  {
+    "sku": "P-1077",
+    "nombre": "Plancha de vapor 1800W",
+    "descripcion": "Plancha con suela cerámica y sistema anti-cal.",
+    "categoria": "Hogar",
+    "precio": 125000,
+    "cantidad": 31,
+    "fecha_registro": "2027-12-03T00:00:00Z"
+  },
+  {
+    "sku": "P-1078",
+    "nombre": "Mascarilla de pestañas",
+    "descripcion": "Máscara con cepillo curvex, efecto volumen.",
+    "categoria": "Belleza",
+    "precio": 38000,
+    "cantidad": 76,
+    "fecha_registro": "2027-12-17T00:00:00Z"
+  },
+  {
+    "sku": "P-1079",
+    "nombre": "Casco para ciclismo",
+    "descripcion": "Casco ventilado con sistema de ajuste dial.",
+    "categoria": "Deportes",
+    "precio": 145000,
+    "cantidad": 33,
+    "fecha_registro": "2028-01-01T00:00:00Z"
+  },
+  {
+    "sku": "P-1080",
+    "nombre": "Parka impermeable urbana",
+    "descripcion": "Parka con capucha desmontable y múltiples bolsillos.",
+    "categoria": "Ropa",
+    "precio": 385000,
+    "cantidad": 15,
+    "fecha_registro": "2028-01-15T00:00:00Z"
+  },
+  {
+    "sku": "P-1081",
+    "nombre": "Disco duro externo 2TB",
+    "descripcion": "Disco SSD USB-C, resistencia a golpes y agua.",
+    "categoria": "Electrónica",
+    "precio": 350000,
+    "cantidad": 40,
+    "fecha_registro": "2028-01-29T00:00:00Z"
+  },
+  {
+    "sku": "P-1082",
+    "nombre": "Cafetera italiana 6 tazas",
+    "descripcion": "Cafetera moka de acero inoxidable 18/10.",
+    "categoria": "Hogar",
+    "precio": 95000,
+    "cantidad": 35,
+    "fecha_registro": "2028-02-12T00:00:00Z"
+  },
+  {
+    "sku": "P-1083",
+    "nombre": "Polvo compacto matificante",
+    "descripcion": "Polvo con extracto de té verde, controla brillos.",
+    "categoria": "Belleza",
+    "precio": 52000,
+    "cantidad": 47,
+    "fecha_registro": "2028-02-26T00:00:00Z"
+  },
+  {
+    "sku": "P-1084",
+    "nombre": "Arnés escalada deportiva",
+    "descripcion": "Arnés ergonómico con 4 puntos de ajuste.",
+    "categoria": "Deportes",
+    "precio": 185000,
+    "cantidad": 17,
+    "fecha_registro": "2028-03-11T00:00:00Z"
+  },
+  {
+    "sku": "P-1085",
+    "nombre": "Top deportivo soporte alto",
+    "descripcion": "Top sin costuras, ideal para entrenamiento intenso.",
+    "categoria": "Ropa",
+    "precio": 68000,
+    "cantidad": 44,
+    "fecha_registro": "2028-03-25T00:00:00Z"
+  },
+  {
+    "sku": "P-1086",
+    "nombre": "Webcam 4K con seguimiento",
+    "descripcion": "Webcam con autofocus y cancelación de ruido.",
+    "categoria": "Electrónica",
+    "precio": 285000,
+    "cantidad": 26,
+    "fecha_registro": "2028-04-08T00:00:00Z"
+  },
+  {
+    "sku": "P-1087",
+    "nombre": "Tostadora 4 ranuras",
+    "descripcion": "Tostadora digital con función bagel y descongelar.",
+    "categoria": "Hogar",
+    "precio": 145000,
+    "cantidad": 29,
+    "fecha_registro": "2028-04-22T00:00:00Z"
+  },
+  {
+    "sku": "P-1088",
+    "nombre": "Sombra de ojos palette",
+    "descripcion": "Paleta 12 tonos mate y brillo, alta pigmentación.",
+    "categoria": "Belleza",
+    "precio": 78000,
+    "cantidad": 38,
+    "fecha_registro": "2028-05-06T00:00:00Z"
+  },
+  {
+    "sku": "P-1089",
+    "nombre": "Paletas de snowboard",
+    "descripcion": "Paletas de fibra de vidrio, perfil direccional.",
+    "categoria": "Deportes",
+    "precio": 450000,
+    "cantidad": 11,
+    "fecha_registro": "2028-05-20T00:00:00Z"
+  },
+  {
+    "sku": "P-1090",
+    "nombre": "Falda tennis pleated",
+    "descripcion": "Falda deportiva con shorts interior incorporado.",
+    "categoria": "Ropa",
+    "precio": 95000,
+    "cantidad": 31,
+    "fecha_registro": "2028-06-03T00:00:00Z"
+  },
+  {
+    "sku": "P-1091",
+    "nombre": "Mouse gaming 16000 DPI",
+    "descripcion": "Mouse ergonómico con RGB y 8 botones programables.",
+    "categoria": "Electrónica",
+    "precio": 185000,
+    "cantidad": 34,
+    "fecha_registro": "2028-06-17T00:00:00Z"
+  },
+  {
+    "sku": "P-1092",
+    "nombre": "Olla arrocera 2L",
+    "descripcion": "Olla con tazón antiadherente y función mantener calor.",
+    "categoria": "Hogar",
+    "precio": 125000,
+    "cantidad": 32,
+    "fecha_registro": "2028-07-01T00:00:00Z"
+  },
+  {
+    "sku": "P-1093",
+    "nombre": "Gel fijador pelo fuerte hold",
+    "descripcion": "Gel sin alcohol, fijación máxima sin efecto caspa.",
+    "categoria": "Belleza",
+    "precio": 35000,
+    "cantidad": 62,
+    "fecha_registro": "2028-07-15T00:00:00Z"
+  },
+  {
+    "sku": "P-1094",
+    "nombre": "Palos de golf hierro 5-PW",
+    "descripcion": "Set 6 palos con grafito regular flex.",
+    "categoria": "Deportes",
+    "precio": 850000,
+    "cantidad": 8,
+    "fecha_registro": "2028-07-29T00:00:00Z"
+  },
+  {
+    "sku": "P-1095",
+    "nombre": "Vestido verano lino natural",
+    "descripcion": "Vestido midi de lino, transpirable y fresco.",
+    "categoria": "Ropa",
+    "precio": 165000,
+    "cantidad": 24,
+    "fecha_registro": "2028-08-12T00:00:00Z"
+  },
+  {
+    "sku": "P-1096",
+    "nombre": "Tablet dibujo 10 pulgadas",
+    "descripcion": "Tablet con lápiz sensible a la presión 8192 niveles.",
+    "categoria": "Electrónica",
+    "precio": 650000,
+    "cantidad": 14,
+    "fecha_registro": "2028-08-26T00:00:00Z"
+  },
+  {
+    "sku": "P-1097",
+    "nombre": "Jarra eléctrica 1.7L",
+    "descripcion": "Jarra con apagado automático y base 360 grados.",
+    "categoria": "Hogar",
+    "precio": 88000,
+    "cantidad": 41,
+    "fecha_registro": "2028-09-09T00:00:00Z"
+  },
+  {
+    "sku": "P-1098",
+    "nombre": "Bronceador en spray FPS 30",
+    "descripcion": "Spray de aplicación fácil, resistente al agua.",
+    "categoria": "Belleza",
+    "precio": 68000,
+    "cantidad": 53,
+    "fecha_registro": "2028-09-23T00:00:00Z"
+  },
+  {
+    "sku": "P-1099",
+    "nombre": "Tabla de surf 7'2''",
+    "descripcion": "Tabla funboard epoxy, ideal para principiantes.",
+    "categoria": "Deportes",
+    "precio": 520000,
+    "cantidad": 9,
+    "fecha_registro": "2028-10-07T00:00:00Z"
+  },
+  {
+    "sku": "P-1100",
+    "nombre": "Chaqueta de cuero genuino",
+    "descripcion": "Chaqueta bomber de cuero ovino, forro interior.",
+    "categoria": "Ropa",
+    "precio": 450000,
+    "cantidad": 12,
+    "fecha_registro": "2028-10-21T00:00:00Z"
+  }
+]

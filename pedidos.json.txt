@@ -1,0 +1,384 @@
+﻿[
+  {
+    "pedido_id": "O-9001",
+    "cliente_id": "maria123",
+    "lista_productos": [
+      {"sku": "P-1001", "cantidad": 2, "precio": 25000},
+      {"sku": "P-1003", "cantidad": 1, "precio": 180000}
+    ],
+    "valor_total": 230000,
+    "estado": "Entregado",
+    "fecha_pedido": "2025-06-15T00:00:00Z",
+    "direccion_envio": "Calle 10 #5-20, Bogotá",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "pedido_id": "O-9002",
+    "cliente_id": "juan456",
+    "lista_productos": [
+      {"sku": "P-1002", "cantidad": 1, "precio": 90000},
+      {"sku": "P-1005", "cantidad": 1, "precio": 120000}
+    ],
+    "valor_total": 210000,
+    "estado": "Pendiente",
+    "fecha_pedido": "2025-07-01T00:00:00Z",
+    "direccion_envio": "Av. Reforma 200, Ciudad de México",
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "pedido_id": "O-9003",
+    "cliente_id": "laura789",
+    "lista_productos": [
+      {"sku": "P-1004", "cantidad": 1, "precio": 230000}
+    ],
+    "valor_total": 230000,
+    "estado": "En proceso",
+    "fecha_pedido": "2025-07-20T00:00:00Z",
+    "direccion_envio": "Calle Providencia 88, Santiago",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "pedido_id": "O-9004",
+    "cliente_id": "sofia111",
+    "lista_productos": [
+      {"sku": "P-1006", "cantidad": 1, "precio": 145000},
+      {"sku": "P-1008", "cantidad": 1, "precio": 480000}
+    ],
+    "valor_total": 625000,
+    "estado": "Entregado",
+    "fecha_pedido": "2025-08-05T00:00:00Z",
+    "direccion_envio": "Calle Los Olivos 33, Lima",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "pedido_id": "O-9005",
+    "cliente_id": "pedro222",
+    "lista_productos": [
+      {"sku": "P-1007", "cantidad": 1, "precio": 350000}
+    ],
+    "valor_total": 350000,
+    "estado": "Pendiente",
+    "fecha_pedido": "2025-09-10T00:00:00Z",
+    "direccion_envio": "Calle Libertad 120, Buenos Aires",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "pedido_id": "O-9006",
+    "cliente_id": "camila333",
+    "lista_productos": [
+      {"sku": "P-1009", "cantidad": 1, "precio": 210000},
+      {"sku": "P-1010", "cantidad": 2, "precio": 85000}
+    ],
+    "valor_total": 380000,
+    "estado": "Entregado",
+    "fecha_pedido": "2025-09-25T00:00:00Z",
+    "direccion_envio": "Av. Corrientes 1500, Buenos Aires",
+    "metodo_pago": "Tarjeta de débito"
+  },
+  {
+    "pedido_id": "O-9007",
+    "cliente_id": "andres444",
+    "lista_productos": [
+      {"sku": "P-1011", "cantidad": 1, "precio": 420000},
+      {"sku": "P-1012", "cantidad": 1, "precio": 185000}
+    ],
+    "valor_total": 605000,
+    "estado": "En proceso",
+    "fecha_pedido": "2025-10-05T00:00:00Z",
+    "direccion_envio": "Carrera 15 #32-45, Medellín",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "pedido_id": "O-9008",
+    "cliente_id": "isabella555",
+    "lista_productos": [
+      {"sku": "P-1013", "cantidad": 1, "precio": 95000},
+      {"sku": "P-1014", "cantidad": 2, "precio": 75000}
+    ],
+    "valor_total": 245000,
+    "estado": "Entregado",
+    "fecha_pedido": "2025-10-18T00:00:00Z",
+    "direccion_envio": "Av. Insurgentes 500, Ciudad de México",
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "pedido_id": "O-9009",
+    "cliente_id": "diego666",
+    "lista_productos": [
+      {"sku": "P-1015", "cantidad": 1, "precio": 135000},
+      {"sku": "P-1016", "cantidad": 1, "precio": 165000}
+    ],
+    "valor_total": 300000,
+    "estado": "Pendiente",
+    "fecha_pedido": "2025-11-02T00:00:00Z",
+    "direccion_envio": "Calle 80 #12-30, Bogotá",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "pedido_id": "O-9010",
+    "cliente_id": "valentina777",
+    "lista_productos": [
+      {"sku": "P-1017", "cantidad": 1, "precio": 220000},
+      {"sku": "P-1018", "cantidad": 1, "precio": 110000}
+    ],
+    "valor_total": 330000,
+    "estado": "En proceso",
+    "fecha_pedido": "2025-11-15T00:00:00Z",
+    "direccion_envio": "Av. Apoquindo 3000, Santiago",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "pedido_id": "O-9011",
+    "cliente_id": "miguel888",
+    "lista_productos": [
+      {"sku": "P-1019", "cantidad": 1, "precio": 850000}
+    ],
+    "valor_total": 850000,
+    "estado": "Entregado",
+    "fecha_pedido": "2025-11-30T00:00:00Z",
+    "direccion_envio": "Av. Javier Prado 1500, Lima",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "pedido_id": "O-9012",
+    "cliente_id": "fernanda999",
+    "lista_productos": [
+      {"sku": "P-1020", "cantidad": 3, "precio": 78000},
+      {"sku": "P-1021", "cantidad": 1, "precio": 4200000}
+    ],
+    "valor_total": 4434000,
+    "estado": "En proceso",
+    "fecha_pedido": "2025-12-10T00:00:00Z",
+    "direccion_envio": "Calle Florida 200, Buenos Aires",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "pedido_id": "O-9013",
+    "cliente_id": "ricardo101",
+    "lista_productos": [
+      {"sku": "P-1022", "cantidad": 1, "precio": 680000},
+      {"sku": "P-1023", "cantidad": 2, "precio": 65000}
+    ],
+    "valor_total": 810000,
+    "estado": "Pendiente",
+    "fecha_pedido": "2025-12-22T00:00:00Z",
+    "direccion_envio": "Paseo de la Reforma 222, Ciudad de México",
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "pedido_id": "O-9014",
+    "cliente_id": "patricia202",
+    "lista_productos": [
+      {"sku": "P-1024", "cantidad": 1, "precio": 180000},
+      {"sku": "P-1025", "cantidad": 1, "precio": 195000}
+    ],
+    "valor_total": 375000,
+    "estado": "Entregado",
+    "fecha_pedido": "2026-01-05T00:00:00Z",
+    "direccion_envio": "Carrera 7 #40-50, Bogotá",
+    "metodo_pago": "Tarjeta de débito"
+  },
+  {
+    "pedido_id": "O-9015",
+    "cliente_id": "javier303",
+    "lista_productos": [
+      {"sku": "P-1026", "cantidad": 1, "precio": 890000}
+    ],
+    "valor_total": 890000,
+    "estado": "En proceso",
+    "fecha_pedido": "2026-01-20T00:00:00Z",
+    "direccion_envio": "Av. Providencia 2000, Santiago",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "pedido_id": "O-9016",
+    "cliente_id": "gabriela404",
+    "lista_productos": [
+      {"sku": "P-1027", "cantidad": 1, "precio": 1250000},
+      {"sku": "P-1028", "cantidad": 3, "precio": 45000}
+    ],
+    "valor_total": 1385000,
+    "estado": "Pendiente",
+    "fecha_pedido": "2026-02-03T00:00:00Z",
+    "direccion_envio": "Jr. de la Unión 400, Lima",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "pedido_id": "O-9017",
+    "cliente_id": "raul505",
+    "lista_productos": [
+      {"sku": "P-1029", "cantidad": 1, "precio": 1200000}
+    ],
+    "valor_total": 1200000,
+    "estado": "Entregado",
+    "fecha_pedido": "2026-02-18T00:00:00Z",
+    "direccion_envio": "Av. Santa Fe 1500, Buenos Aires",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "pedido_id": "O-9018",
+    "cliente_id": "daniela606",
+    "lista_productos": [
+      {"sku": "P-1030", "cantidad": 1, "precio": 320000},
+      {"sku": "P-1031", "cantidad": 1, "precio": 185000}
+    ],
+    "valor_total": 505000,
+    "estado": "En proceso",
+    "fecha_pedido": "2026-03-05T00:00:00Z",
+    "direccion_envio": "Calle 85 #15-25, Bogotá",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "pedido_id": "O-9019",
+    "cliente_id": "oscar707",
+    "lista_productos": [
+      {"sku": "P-1032", "cantidad": 1, "precio": 285000},
+      {"sku": "P-1033", "cantidad": 2, "precio": 55000}
+    ],
+    "valor_total": 395000,
+    "estado": "Pendiente",
+    "fecha_pedido": "2026-03-20T00:00:00Z",
+    "direccion_envio": "Av. Chapultepec 500, Ciudad de México",
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "pedido_id": "O-9020",
+    "cliente_id": "lucia808",
+    "lista_productos": [
+      {"sku": "P-1034", "cantidad": 1, "precio": 145000},
+      {"sku": "P-1035", "cantidad": 2, "precio": 95000}
+    ],
+    "valor_total": 335000,
+    "estado": "Entregado",
+    "fecha_pedido": "2026-04-02T00:00:00Z",
+    "direccion_envio": "Calle Merced 250, Santiago",
+    "metodo_pago": "Tarjeta de débito"
+  },
+  {
+    "pedido_id": "O-9021",
+    "cliente_id": "arturo909",
+    "lista_productos": [
+      {"sku": "P-1036", "cantidad": 1, "precio": 350000}
+    ],
+    "valor_total": 350000,
+    "estado": "En proceso",
+    "fecha_pedido": "2026-04-15T00:00:00Z",
+    "direccion_envio": "Av. Arequipa 2500, Lima",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "pedido_id": "O-9022",
+    "cliente_id": "elena010",
+    "lista_productos": [
+      {"sku": "P-1037", "cantidad": 1, "precio": 420000},
+      {"sku": "P-1038", "cantidad": 4, "precio": 38000}
+    ],
+    "valor_total": 572000,
+    "estado": "Pendiente",
+    "fecha_pedido": "2026-05-01T00:00:00Z",
+    "direccion_envio": "Calle Paraguay 1200, Buenos Aires",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "pedido_id": "O-9023",
+    "cliente_id": "roberto111",
+    "lista_productos": [
+      {"sku": "P-1039", "cantidad": 2, "precio": 125000},
+      {"sku": "P-1040", "cantidad": 1, "precio": 185000}
+    ],
+    "valor_total": 435000,
+    "estado": "Entregado",
+    "fecha_pedido": "2026-05-15T00:00:00Z",
+    "direccion_envio": "Carrera 11 #22-33, Cali",
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "pedido_id": "O-9024",
+    "cliente_id": "claudia222",
+    "lista_productos": [
+      {"sku": "P-1041", "cantidad": 1, "precio": 950000}
+    ],
+    "valor_total": 950000,
+    "estado": "En proceso",
+    "fecha_pedido": "2026-06-01T00:00:00Z",
+    "direccion_envio": "Av. Revolución 1500, Ciudad de México",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "pedido_id": "O-9025",
+    "cliente_id": "sergio333",
+    "lista_productos": [
+      {"sku": "P-1042", "cantidad": 1, "precio": 780000},
+      {"sku": "P-1043", "cantidad": 3, "precio": 32000}
+    ],
+    "valor_total": 876000,
+    "estado": "Pendiente",
+    "fecha_pedido": "2026-06-18T00:00:00Z",
+    "direccion_envio": "Av. Las Condes 8000, Santiago",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "pedido_id": "O-9026",
+    "cliente_id": "veronica444",
+    "lista_productos": [
+      {"sku": "P-1044", "cantidad": 2, "precio": 55000},
+      {"sku": "P-1045", "cantidad": 1, "precio": 115000}
+    ],
+    "valor_total": 225000,
+    "estado": "Entregado",
+    "fecha_pedido": "2026-07-02T00:00:00Z",
+    "direccion_envio": "Av. Córdoba 800, Buenos Aires",
+    "metodo_pago": "Tarjeta de débito"
+  },
+  {
+    "pedido_id": "O-9027",
+    "cliente_id": "alejandro555",
+    "lista_productos": [
+      {"sku": "P-1046", "cantidad": 1, "precio": 2100000}
+    ],
+    "valor_total": 2100000,
+    "estado": "En proceso",
+    "fecha_pedido": "2026-07-20T00:00:00Z",
+    "direccion_envio": "Av. Brasil 1500, Lima",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "pedido_id": "O-9028",
+    "cliente_id": "carlos321",
+    "lista_productos": [
+      {"sku": "P-1047", "cantidad": 1, "precio": 650000},
+      {"sku": "P-1048", "cantidad": 2, "precio": 42000}
+    ],
+    "valor_total": 734000,
+    "estado": "Pendiente",
+    "fecha_pedido": "2026-08-05T00:00:00Z",
+    "direccion_envio": "Calle San Martín 500, Buenos Aires",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "pedido_id": "O-9029",
+    "cliente_id": "ana654",
+    "lista_productos": [
+      {"sku": "P-1049", "cantidad": 4, "precio": 35000},
+      {"sku": "P-1050", "cantidad": 1, "precio": 88000}
+    ],
+    "valor_total": 228000,
+    "estado": "Entregado",
+    "fecha_pedido": "2026-08-22T00:00:00Z",
+    "direccion_envio": "Jr. Huancavelica 200, Lima",
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "pedido_id": "O-9030",
+    "cliente_id": "luis987",
+    "lista_productos": [
+      {"sku": "P-1051", "cantidad": 1, "precio": 850000},
+      {"sku": "P-1052", "cantidad": 1, "precio": 145000}
+    ],
+    "valor_total": 995000,
+    "estado": "En proceso",
+    "fecha_pedido": "2026-09-10T00:00:00Z",
+    "direccion_envio": "Carrera 45 #20-10, Barranquilla",
+    "metodo_pago": "Transferencia"
+  }
+]

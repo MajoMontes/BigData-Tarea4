@@ -1,0 +1,212 @@
+﻿[
+  {
+    "usuario": "maria123",
+    "telefono": "3001234567",
+    "email": "maria123@correo.com",
+    "nombre": "María Pérez",
+    "pais": "Colombia"
+  },
+  {
+    "usuario": "juan456",
+    "telefono": "3009876543",
+    "email": "juan456@correo.com",
+    "nombre": "Juan Gómez",
+    "pais": "México"
+  },
+  {
+    "usuario": "laura789",
+    "telefono": "3014567890",
+    "email": "laura789@correo.com",
+    "nombre": "Laura Torres",
+    "pais": "Chile"
+  },
+  {
+    "usuario": "carlos321",
+    "telefono": "3026789012",
+    "email": "carlos321@correo.com",
+    "nombre": "Carlos Díaz",
+    "pais": "Argentina"
+  },
+  {
+    "usuario": "ana654",
+    "telefono": "3032345678",
+    "email": "ana654@correo.com",
+    "nombre": "Ana Rodríguez",
+    "pais": "Perú"
+  },
+  {
+    "usuario": "luis987",
+    "telefono": "3048765432",
+    "email": "luis987@correo.com",
+    "nombre": "Luis Hernández",
+    "pais": "Colombia"
+  },
+  {
+    "usuario": "sofia111",
+    "telefono": "3051239876",
+    "email": "sofia111@correo.com",
+    "nombre": "Sofía Morales",
+    "pais": "Chile"
+  },
+  {
+    "usuario": "pedro222",
+    "telefono": "3066781234",
+    "email": "pedro222@correo.com",
+    "nombre": "Pedro Castillo",
+    "pais": "México"
+  },
+  {
+    "usuario": "camila333",
+    "telefono": "3075556789",
+    "email": "camila333@correo.com",
+    "nombre": "Camila Romero",
+    "pais": "Argentina"
+  },
+  {
+    "usuario": "andres444",
+    "telefono": "3084561234",
+    "email": "andres444@correo.com",
+    "nombre": "Andrés López",
+    "pais": "Colombia"
+  },
+  {
+    "usuario": "isabella555",
+    "telefono": "3107894561",
+    "email": "isabella555@correo.com",
+    "nombre": "Isabella García",
+    "pais": "México"
+  },
+  {
+    "usuario": "diego666",
+    "telefono": "3116549873",
+    "email": "diego666@correo.com",
+    "nombre": "Diego Martínez",
+    "pais": "Colombia"
+  },
+  {
+    "usuario": "valentina777",
+    "telefono": "3123216549",
+    "email": "valentina777@correo.com",
+    "nombre": "Valentina Silva",
+    "pais": "Chile"
+  },
+  {
+    "usuario": "miguel888",
+    "telefono": "3139873216",
+    "email": "miguel888@correo.com",
+    "nombre": "Miguel Ángel Rojas",
+    "pais": "Perú"
+  },
+  {
+    "usuario": "fernanda999",
+    "telefono": "3144567891",
+    "email": "fernanda999@correo.com",
+    "nombre": "Fernanda Castro",
+    "pais": "Argentina"
+  },
+  {
+    "usuario": "ricardo101",
+    "telefono": "3157891234",
+    "email": "ricardo101@correo.com",
+    "nombre": "Ricardo Mendoza",
+    "pais": "México"
+  },
+  {
+    "usuario": "patricia202",
+    "telefono": "3162345678",
+    "email": "patricia202@correo.com",
+    "nombre": "Patricia Núñez",
+    "pais": "Colombia"
+  },
+  {
+    "usuario": "javier303",
+    "telefono": "3178765432",
+    "email": "javier303@correo.com",
+    "nombre": "Javier Ortega",
+    "pais": "Chile"
+  },
+  {
+    "usuario": "gabriela404",
+    "telefono": "3183456789",
+    "email": "gabriela404@correo.com",
+    "nombre": "Gabriela Paredes",
+    "pais": "Perú"
+  },
+  {
+    "usuario": "raul505",
+    "telefono": "3196543210",
+    "email": "raul505@correo.com",
+    "nombre": "Raúl Vargas",
+    "pais": "Argentina"
+  },
+  {
+    "usuario": "daniela606",
+    "telefono": "3201234567",
+    "email": "daniela606@correo.com",
+    "nombre": "Daniela Herrera",
+    "pais": "Colombia"
+  },
+  {
+    "usuario": "oscar707",
+    "telefono": "3219876543",
+    "email": "oscar707@correo.com",
+    "nombre": "Óscar Ramírez",
+    "pais": "México"
+  },
+  {
+    "usuario": "lucia808",
+    "telefono": "3224567890",
+    "email": "lucia808@correo.com",
+    "nombre": "Lucía Flores",
+    "pais": "Chile"
+  },
+  {
+    "usuario": "arturo909",
+    "telefono": "3236789012",
+    "email": "arturo909@correo.com",
+    "nombre": "Arturo Salazar",
+    "pais": "Perú"
+  },
+  {
+    "usuario": "elena010",
+    "telefono": "3242345678",
+    "email": "elena010@correo.com",
+    "nombre": "Elena Cordero",
+    "pais": "Argentina"
+  },
+  {
+    "usuario": "roberto111",
+    "telefono": "3258765432",
+    "email": "roberto111@correo.com",
+    "nombre": "Roberto Miranda",
+    "pais": "Colombia"
+  },
+  {
+    "usuario": "claudia222",
+    "telefono": "3261239876",
+    "email": "claudia222@correo.com",
+    "nombre": "Claudia Ríos",
+    "pais": "México"
+  },
+  {
+    "usuario": "sergio333",
+    "telefono": "3276781234",
+    "email": "sergio333@correo.com",
+    "nombre": "Sergio Molina",
+    "pais": "Chile"
+  },
+  {
+    "usuario": "veronica444",
+    "telefono": "3285556789",
+    "email": "veronica444@correo.com",
+    "nombre": "Verónica Guzmán",
+    "pais": "Argentina"
+  },
+  {
+    "usuario": "alejandro555",
+    "telefono": "3294561234",
+    "email": "alejandro555@correo.com",
+    "nombre": "Alejandro Peña",
+    "pais": "Perú"
+  }
+]
