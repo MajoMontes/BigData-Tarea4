@@ -68,10 +68,12 @@ La base de datos está compuesta por dos colecciones esenciales:
 
 #### Colección: empleados
 Se importaron datos de empleados pertenecientes a diferentes áreas de la organización, permitiendo relacionar incidencias según el departamento afectado.
+
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Base%20de%20Datos/Import%20empleados.png)
 
 #### Colección: incidencias
 Se importaron tickets de soporte con información completa sobre categoría, estado, prioridad y fecha de creación.
+
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Base%20de%20Datos/Import%20incidencias.png)
 
 Estos datos permiten realizar análisis estadísticos y pruebas funcionales dentro del sistema.
