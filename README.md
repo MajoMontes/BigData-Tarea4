@@ -99,7 +99,7 @@ db.empleados.insertOne({
 })
 ```
 
-** Vizualización de resultado**
+**Vizualización de resultado**
 
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20b%C3%A1sicas/Consulta1.png)
 
@@ -113,7 +113,7 @@ db.empleados.insertOne({
 db.incidencias.find().limit(5)
 ```
 
-** Vizualización de resultado**
+**Vizualización de resultado**
 
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20b%C3%A1sicas/Consulta2.png)
 
@@ -132,7 +132,7 @@ db.incidencias.updateOne(
 
 ```
 
-** Vizualización de resultado**
+**Vizualización de resultado**
 
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20b%C3%A1sicas/Consulta3.png)
 
@@ -148,7 +148,7 @@ db.empleados.deleteMany({"area": "Legal"})
 
 ```
 
-** Vizualización de resultado**
+**Vizualización de resultado**
 
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20b%C3%A1sicas/Consulta4.png)
 
@@ -165,7 +165,7 @@ db.empleados.deleteMany({"area": "Legal"})
 db.incidencias.find({"prioridad": "Alta"})
 ```
 
-** Vizualización de resultado**
+**Vizualización de resultado**
 
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20con%20filtros%20y%20operadores/consulta1.png)
 
@@ -183,7 +183,7 @@ db.incidencias.find({
 })
 ```
 
-** Vizualización de resultado**
+**Vizualización de resultado**
 
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20con%20filtros%20y%20operadores/consulta2.png)
 
@@ -208,7 +208,7 @@ db.incidencias.find({
 
 ```
 
-** Vizualización de resultado**
+**Vizualización de resultado**
 
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20con%20filtros%20y%20operadores/consulta3.png)
 
@@ -226,7 +226,7 @@ db.empleados.find({
 
 ```
 
-** Vizualización de resultado**
+**Vizualización de resultado**
 
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20con%20filtros%20y%20operadores/consulta4.png)
 
@@ -249,7 +249,7 @@ db.incidencias.aggregate([
 ])
 ```
 
-** Vizualización de resultado**
+**Vizualización de resultado**
 
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20de%20agregaci%C3%B3n%20para%20calcular%20estad%C3%ADsticas/consulta1.png)
 
@@ -284,7 +284,7 @@ db.incidencias.aggregate([
 ])
 ```
 
-** Vizualización de resultado**
+**Vizualización de resultado**
 
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20de%20agregaci%C3%B3n%20para%20calcular%20estad%C3%ADsticas/consulta2.png)
 
@@ -315,7 +315,7 @@ db.incidencias.aggregate([
 
 ```
 
-** Vizualización de resultado**
+**Vizualización de resultado**
 
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20de%20agregaci%C3%B3n%20para%20calcular%20estad%C3%ADsticas/consulta3.png)
 
@@ -353,7 +353,7 @@ db.incidencias.aggregate([
 
 ```
 
-** Vizualización de resultado**
+**Vizualización de resultado**
 
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20de%20agregaci%C3%B3n%20para%20calcular%20estad%C3%ADsticas/consulta4.png)
 
