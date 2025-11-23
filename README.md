@@ -100,6 +100,7 @@ db.empleados.insertOne({
 ```
 
 ** Vizualización de resultado**
+
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20b%C3%A1sicas/Consulta1.png)
 
 `**Explicación:** Crea un nuevo documento en la colección "empleados" con los datos especificados. MongoDB genera automáticamente un _id único para identificar al nuevo empleado.
@@ -113,6 +114,7 @@ db.incidencias.find().limit(5)
 ```
 
 ** Vizualización de resultado**
+
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20b%C3%A1sicas/Consulta2.png)
 
 `**Explicación:** Recupera solo los primeros 5 documentos de la colección "incidencias".
@@ -131,6 +133,7 @@ db.incidencias.updateOne(
 ```
 
 ** Vizualización de resultado**
+
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20b%C3%A1sicas/Consulta3.png)
 
 `**Explicación:** Modifica únicamente el campo "estado" del ticket TKT-001 a "Cerrado".
@@ -146,6 +149,7 @@ db.empleados.deleteMany({"area": "Legal"})
 ```
 
 ** Vizualización de resultado**
+
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20b%C3%A1sicas/Consulta4.png)
 
 `**Explicación:** Elimina todos los empleados que pertenecen al área Legal.
@@ -162,6 +166,7 @@ db.incidencias.find({"prioridad": "Alta"})
 ```
 
 ** Vizualización de resultado**
+
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20con%20filtros%20y%20operadores/consulta1.png)
 
 `**Explicación:** Filtra y muestra solo las incidencias marcadas como prioridad "Alta". 
@@ -179,6 +184,7 @@ db.incidencias.find({
 ```
 
 ** Vizualización de resultado**
+
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20con%20filtros%20y%20operadores/consulta2.png)
 
 `**Explicación:** Busca incidencias reportadas desde el 1 de junio de 2024 en adelante.
@@ -203,6 +209,7 @@ db.incidencias.find({
 ```
 
 ** Vizualización de resultado**
+
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20con%20filtros%20y%20operadores/consulta3.png)
 
 `**Explicación:** Encuentra incidencias urgentes que aún no han sido cerradas.
@@ -220,6 +227,7 @@ db.empleados.find({
 ```
 
 ** Vizualización de resultado**
+
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20con%20filtros%20y%20operadores/consulta4.png)
 
 `**Explicación:** Selecciona empleados que pertenecen a Ventas O Marketing.
@@ -242,6 +250,7 @@ db.incidencias.aggregate([
 ```
 
 ** Vizualización de resultado**
+
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20de%20agregaci%C3%B3n%20para%20calcular%20estad%C3%ADsticas/consulta1.png)
 
 `**Explicación:** Agrupa las incidencias por tipo (hardware, software, etc.) y cuenta cuántas hay de cada una.
@@ -276,6 +285,7 @@ db.incidencias.aggregate([
 ```
 
 ** Vizualización de resultado**
+
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20de%20agregaci%C3%B3n%20para%20calcular%20estad%C3%ADsticas/consulta2.png)
 
 `**Explicación:** Al cruzar los datos de incidencias con la información de empleados, esta consulta identifica qué departamentos generan mayor volumen de tickets y con qué nivel de urgencia. Los resultados muestran patrones específicos por área, revelando si ciertos departamentos enfrentan problemas técnicos recurrentes o si existen brechas de capacitación. Un alto porcentaje de prioridades altas en un área específica puede señalar problemas críticos que afectan la productividad. Este análisis facilita la toma de decisiones para implementar soluciones dirigidas, como capacitación especializada, mejora de equipos o reasignación de recursos de soporte hacia las áreas más críticas.
@@ -306,6 +316,7 @@ db.incidencias.aggregate([
 ```
 
 ** Vizualización de resultado**
+
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20de%20agregaci%C3%B3n%20para%20calcular%20estad%C3%ADsticas/consulta3.png)
 
 `**Explicación:** El análisis temporal de incidencias por mes permite identificar tendencias estacionales y medir la eficiencia del equipo de soporte. Al comparar los tickets abiertos versus cerrados en cada mes, se evalúa la capacidad de respuesta y la efectividad en la resolución de problemas. Los picos en ciertos meses pueden relacionarse con factores específicos como implementación de nuevos sistemas, aumento de carga laboral o problemas estacionales. Esta información es valiosa para la planificación anticipada de recursos, establecimiento de metas realistas y mejora continua de los procesos de soporte técnico.
@@ -343,6 +354,7 @@ db.incidencias.aggregate([
 ```
 
 ** Vizualización de resultado**
+
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20de%20agregaci%C3%B3n%20para%20calcular%20estad%C3%ADsticas/consulta4.png)
 
 `**Explicación:** Identificar a los empleados que reportan mayor cantidad de incidencias permite un enfoque proactivo en la gestión del soporte. Este análisis distingue entre usuarios con problemas genuinamente recurrentes y aquellos que podrían necesitar capacitación adicional. Un alto número de incidencias abiertas sugiere problemas no resueltos que requieren atención prioritaria. La información obtenida facilita la implementación de medidas preventivas, como mantenimiento específico de equipos, sesiones de entrenamiento personalizado o revisión de procesos particulares que afectan a usuarios frecuentes, mejorando así la experiencia general y reduciendo la carga de trabajo del soporte.
