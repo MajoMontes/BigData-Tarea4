@@ -106,7 +106,7 @@ db.empleados.insertOne({
 `**Explicación:** Crea un nuevo documento en la colección "empleados" con los datos especificados. MongoDB genera automáticamente un _id único para identificar al nuevo empleado.
 
 ---
-#### ** 2.	Seleccionar incidencias con límite**
+#### **2.	Seleccionar incidencias con límite**
 
 ```js
 // Seleccionar incidencias con límite
@@ -121,7 +121,7 @@ db.incidencias.find().limit(5)
 - Cómo funciona: find() obtiene todos los documentos y limit(5) restringe el resultado a 5. Revisar rápidamente una muestra de incidencias sin cargar toda la base.
 
 ---
-#### ** 3.	Actualizar estado de una incidencia**
+#### **3.	Actualizar estado de una incidencia**
 
 ```js
 // Actualizar estado de una incidencia
@@ -140,7 +140,7 @@ db.incidencias.updateOne(
 - Cómo funciona: Busca el documento con ticket_id: "TKT-001" y actualiza solo el campo especificado. Marcar incidencias como resueltas cuando finaliza el soporte.
 
 ---
-#### ** 4.	Eliminar empleados de un área específica**
+#### **4.	Eliminar empleados de un área específica**
 
 ```js
 // Eliminar empleados de un área específica
@@ -174,7 +174,7 @@ db.incidencias.find({"prioridad": "Alta"})
 
 
 ---
-#### ** 2.	Incidencias creadas después del 1 de junio 2024 (Operador de comparación)**
+#### **2.	Incidencias creadas después del 1 de junio 2024 (Operador de comparación)**
 
 ```js
 // Incidencias creadas después del 1 de junio de 2024
@@ -192,7 +192,7 @@ db.incidencias.find({
 
 
 ---
-#### ** 3.	Incidencias abiertas o en proceso con prioridad Alta (Operadores lógicos ($and, $or)**
+#### **3.	Incidencias abiertas o en proceso con prioridad Alta (Operadores lógicos ($and, $or)**
 
 ```js
 // Incidencias abiertas o en proceso con prioridad Alta
@@ -216,7 +216,7 @@ db.incidencias.find({
 - Cómo funciona: Combina $and (debe cumplir ambas condiciones) con $or (puede tener cualquiera de estos estados). Es práctico en seguimiento de casos críticos pendientes de resolver.
 
 ---
-#### ** 4.	Empleados de ventas o marketing (Operador $in)**
+#### **4.	Empleados de ventas o marketing (Operador $in)**
 
 ```js
 // Empleados de Ventas o Marketing
@@ -257,7 +257,7 @@ db.incidencias.aggregate([
 - Cómo funciona: Muestra qué categoría tiene más tickets reportados. Identifica áreas problemáticas en la organización.
 
 ---
-#### ** 2.	Incidencias por área del empleado (Estadísticas por áreas)**
+#### **2.	Incidencias por área del empleado (Estadísticas por áreas)**
 
 ```js
 // Incidencias por área del empleado
@@ -291,7 +291,7 @@ db.incidencias.aggregate([
 `**Explicación:** Al cruzar los datos de incidencias con la información de empleados, esta consulta identifica qué departamentos generan mayor volumen de tickets y con qué nivel de urgencia. Los resultados muestran patrones específicos por área, revelando si ciertos departamentos enfrentan problemas técnicos recurrentes o si existen brechas de capacitación. Un alto porcentaje de prioridades altas en un área específica puede señalar problemas críticos que afectan la productividad. Este análisis facilita la toma de decisiones para implementar soluciones dirigidas, como capacitación especializada, mejora de equipos o reasignación de recursos de soporte hacia las áreas más críticas.
 
 ---
-#### ** 3.	Incidencias por mes (Análisis de tendencias temporales)**
+#### **3.	Incidencias por mes (Análisis de tendencias temporales)**
 
 ```js
 // Incidencias por mes
@@ -322,7 +322,7 @@ db.incidencias.aggregate([
 `**Explicación:** El análisis temporal de incidencias por mes permite identificar tendencias estacionales y medir la eficiencia del equipo de soporte. Al comparar los tickets abiertos versus cerrados en cada mes, se evalúa la capacidad de respuesta y la efectividad en la resolución de problemas. Los picos en ciertos meses pueden relacionarse con factores específicos como implementación de nuevos sistemas, aumento de carga laboral o problemas estacionales. Esta información es valiosa para la planificación anticipada de recursos, establecimiento de metas realistas y mejora continua de los procesos de soporte técnico.
 
 ---
-#### ** 4.	Empleados con más incidencias reportadas**
+#### **4.	Empleados con más incidencias reportadas**
 
 ```js
 // Empleados con más incidencias reportadas
