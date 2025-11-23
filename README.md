@@ -61,8 +61,6 @@ La base de datos está compuesta por dos colecciones esenciales:
 3. Importación de los archivos JSON mediante:  
    **Collection → Import Data → JSON File**
 
-La estructura importada permite simular un conjunto realista de empleados y tickets de soporte.
-
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/4f369a0c535b789cd314dab36330b4ca44540f20/Evidencia/Base%20de%20Datos/Base%20de%20tados.png)
 ---
 
