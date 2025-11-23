@@ -365,12 +365,12 @@ db.incidencias.aggregate([
 La realización de esta fase permitió aplicar de forma práctica los fundamentos de MongoDB en un caso de uso real. Se diseñó una base de datos NoSQL adecuada al escenario seleccionado, definiendo colecciones, documentos y campos conforme a las necesidades del sistema. Posteriormente, se implementó la base de datos en MongoDB, incorporando más de 100 documentos y ejecutando operaciones esenciales como inserción, actualización, eliminación y consultas avanzadas mediante filtros y operadores. Además, el uso de pipelines de agregación permitió obtener estadísticas relevantes y analizar el comportamiento de los datos. En conjunto, esta fase fortaleció la comprensión del modelado NoSQL y evidenció la eficiencia de MongoDB para manejar información flexible y orientada a consultas dinámicas.
 
 ---
-#### ✒️ Autora
+#### Autora
 
 - María José Montes
   
 ---
-#### ✒️ Información Académica 
+#### Información Académica 
 - Programa: Ingeniería de Sistemas – UNAD  
 - Curso: Big Data 
 - Código 202016911
