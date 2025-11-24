@@ -118,7 +118,7 @@ db.incidencias.find().limit(5)
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20b%C3%A1sicas/Consulta2.png)
 
 `**Explicación:** Recupera solo los primeros 5 documentos de la colección "incidencias".
-- Cómo funciona: find() obtiene todos los documentos y limit(5) restringe el resultado a 5. Revisar rápidamente una muestra de incidencias sin cargar toda la base.
+- Cómo funciona: find() obtiene todos los documentos y limit(5) restringe el resultado a 5. Revisa rápidamente una muestra de incidencias sin cargar toda la base.
 
 ---
 #### **3.	Actualizar estado de una incidencia**
@@ -137,7 +137,7 @@ db.incidencias.updateOne(
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20b%C3%A1sicas/Consulta3.png)
 
 `**Explicación:** Modifica únicamente el campo "estado" del ticket TKT-001 a "Cerrado".
-- Cómo funciona: Busca el documento con ticket_id: "TKT-001" y actualiza solo el campo especificado. Marcar incidencias como resueltas cuando finaliza el soporte.
+- Cómo funciona: Busca el documento con ticket_id: "TKT-001" y actualiza solo el campo especificado. Marca incidencias como resueltas cuando finaliza el soporte.
 
 ---
 #### **4.	Eliminar empleados de un área específica**
@@ -153,7 +153,7 @@ db.empleados.deleteMany({"area": "Legal"})
 ![imagen](https://github.com/MajoMontes/BigData-Tarea4/blob/85979c7ba96fd1617cdc4aa75c4c2c285bacbe98/Evidencia/Consultas%20b%C3%A1sicas/Consulta4.png)
 
 `**Explicación:** Elimina todos los empleados que pertenecen al área Legal.
-- Cómo funciona: Busca todos los documentos donde área: "Legal" y los elimina permanentemente. Limpiar la base cuando un departamento completo se da de baja.
+- Cómo funciona: Busca todos los documentos donde área: "Legal" y los elimina permanentemente. Limpia la base cuando un departamento completo se da de baja.
 
 ---
 ### Consultas con Filtros y Operadores
@@ -371,7 +371,8 @@ La realización de esta fase permitió aplicar de forma práctica los fundamento
   
 ---
 #### 🎓 Información Académica 
-- Programa: Ingeniería de Sistemas – UNAD  
+- Programa: Ingeniería de Sistemas
 - Curso: Big Data 
-- Código 202016911
+- Código: 202016911
+- UNAD
 - 2025
